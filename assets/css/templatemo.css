@@ -40,7 +40,7 @@ p, a {font-weight: 400;}
   width: 150px;
   display:block;
   position: absolute;
-  border-bottom:  5px solid #d4af37;
+  border-bottom:  5px solid #000000;
   padding-top: .5em;
 }
 .typo-space-line-center::after {
@@ -101,7 +101,7 @@ p, a {font-weight: 400;}
 }
 .recent-work .recent-work-vertical {
 	background: rgb(255,255,255);
-  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 33.333%, rgba(97,84,199,1) 66.666%, rgba(255,255,255,0) 99.999%);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 33.333%, rgba(213,151,34,1) 66.666%, rgba(255,255,255,0) 99.999%);
   background-size: 300% 300%;
   background-position: 0% 100%;
   transition: .5s;
